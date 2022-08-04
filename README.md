@@ -4,7 +4,7 @@ Criar um site com possibilidade de adicionar, editar e excluir contatos
 Para este projeto, foi utilizado um banco de dados criado no Mongoose Atlas. 
 Após a criação do banco de dados, e com o usuário e senha em mãos, basta configurar o .ENV com o texto abaixo
 
-CONNECTIONSTRING=mongodb+srv://USUARIO:SENHA@clusteraulajs.frn5w.mongodb.net/?retryWrites=true&w=majority
+CONNECTIONSTRING=mongodb+srv://USUARIO:SENHA@cNOMEDOCLUSTER.mongodb.net/?retryWrites=true&w=majority
 
 Instalar as dependencias:
 
